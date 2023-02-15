@@ -3,7 +3,7 @@ package efficiency.slidingwindow;
 import java.io.*;
 import java.util.*;
 
-public class Subsequence
+public class ConsecutiveSubsequence
 {
     public static void main(String args[]) throws IOException
     {
