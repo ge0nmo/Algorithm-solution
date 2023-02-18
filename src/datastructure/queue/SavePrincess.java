@@ -31,7 +31,6 @@ public class SavePrincess
             que.offer(i);
         }
 
-        int temp = 0;
         while(!que.isEmpty())
         {
             for(int i = 1; i < k; i++)
