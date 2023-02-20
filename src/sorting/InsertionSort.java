@@ -28,15 +28,13 @@ public class InsertionSort
     {
         for(int target = 1; target < arr.length; target++)
         {
-            int i;
             int temp = arr[target];
-            for(i = target - 1; i >= 0; i--)
-            {
-                if(temp < arr[i])
-                    arr[i + 1] = arr[i];
+            int i = target - 1;
 
-                else
-                    break;
+            while(i >= 0 && arr[i] > temp)
+            {
+                arr[i + 1] = arr[i];
+                --i;
             }
             arr[i + 1] = temp;
         }
