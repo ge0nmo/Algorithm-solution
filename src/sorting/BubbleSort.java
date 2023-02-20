@@ -27,11 +27,19 @@ public class BubbleSort
     {
         for(int i = 0; i < arr.length - 1; i++)
         {
+            boolean swapped = false;
             for(int j = 0; j < arr.length - i - 1; j++)
             {
                 if(arr[j] > arr[j + 1])
+                {
                     swap(j + 1, j, arr);
+                    swapped = true;
+                }
             }
+            //스왑된 것이 없다면 더 이상 정렬할 것이 없다.
+            //배열은 정렬된 상태라는 뜻
+            if(!swapped)
+                break;
         }
     }
 
