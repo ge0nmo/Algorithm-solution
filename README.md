@@ -1,6 +1,3 @@
-# Algorithm-solution
-알고리즘 문제 풀이
-
 1. 문자열
 - [대소문자 변환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ToUpperOrLowerCase.java)
 - [문장 속 단어](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/LongestWord.java)
