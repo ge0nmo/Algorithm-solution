@@ -9,7 +9,7 @@
 - 특정 문자 뒤집기
 - 중복 문자 제거
 - 회문 문자열
-- 유효한 팰린드롬(https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ValidPalindrome.java)
+- [유효한 팰린드롬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ValidPalindrome.java)
 - 숫자만 추출
 - 가장 짧은 문자거리
 - 문자열 압축
