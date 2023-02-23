@@ -1,4 +1,4 @@
-##1. 문자열
+## 문자열
 - [대소문자 변환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ToUpperOrLowerCase.java)
 - [문장 속 단어](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/LongestWord.java)
 - [단어 뒤집기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ReverseWords.java)
@@ -11,7 +11,7 @@
 - [문자열 압축](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/StringCompression.java)
 - [암호](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/Password.java)
 
-##2. 배열
+## 배열
 - [큰 수 출력하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/LargerNumber.java)
 - [가위바위보](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/RockScissorPaper.java)
 - [피보나치 수열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/Fibonacci.java)
