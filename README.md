@@ -24,7 +24,7 @@
 - [임시반장 정하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/ClassPresident.java)
 - [멘토링](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/Mentoring.java)
 
-##3. two pointers, sliding window[효율성: O(n^2) --> O(n)]
+## two pointers, sliding window[효율성: O(n^2) --> O(n)]
 - [두 배열 합치기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/AddArrays.java)
 - [공통 원소 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/FindCommonNum.java)
 - [최대 매출](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/slidingwindow/BiggestSales.java)
@@ -32,14 +32,14 @@
 - [연속된 자연수의 합](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/slidingwindow/ConsecutiveNum.java)
 - [최대 길이 연속 부분 수열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/LongestSequence.java)
 
-##4. HashMap, TreeSet(해쉬, 정렬지원 Set)
+## HashMap, TreeSet(해쉬, 정렬지원 Set)
 - [학급 회장](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/ClassPresident.java)
 - [아나그램](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/Anagram.java)
 - [매출액의 종류](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/TypeOfSales.java)
 - [모든 아나그램 찾기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/FindAllAnagram.java)
 - [K번째 큰 수](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/KthLargestNum.java)
 
-##5. Stack, Queue(자료구조)
+## Stack, Queue(자료구조)
 - [올바른 괄호](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/stack/ProperParentheses.java)
 - [괄호 문자 제거](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/stack/RemoveParentheses.java)
 - [크레인 인형 뽑기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/stack/LiftCrane.java)
@@ -49,7 +49,7 @@
 - [교육과정 설계](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/queue/Curriculum.java)
 - [응급실](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/queue/EmergencyRoom.java)
 
-##6. Sorting and Searching(정렬, 이분검색과 결정 알고리즘)
+## Sorting and Searching(정렬, 이분검색과 결정 알고리즘)
 - [선택 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/SelectionSort.java)
 - [버블 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/BubbleSort.java)
 - [삽입 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/InsertionSort.java)
