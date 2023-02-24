@@ -1,5 +1,5 @@
 ## 문자열
-<summary>- [대소문자 변환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ToUpperOrLowerCase.java)
+- [대소문자 변환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ToUpperOrLowerCase.java)
 - [문장 속 단어](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/LongestWord.java)
 - [단어 뒤집기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ReverseWords.java)
 - [특정 문자 뒤집기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ReverseOnlyAlphabet.java)
@@ -9,7 +9,7 @@
 - [숫자만 추출](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ExtractNumber.java)
 - [가장 짧은 문자거리](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ShortestWordDistance.java)
 - [문자열 압축](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/StringCompression.java)
-- [암호](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/Password.java)</summary>  
+- [암호](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/Password.java)
 
 ## 배열
 - [큰 수 출력하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/LargerNumber.java)
