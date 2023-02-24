@@ -67,7 +67,7 @@
 - [이진수 출력(재귀)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/OutputBinaryNum.java)
 - [팩토리얼](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Factorial.java)
 - [피보나치 재귀(메모이제이션)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Fibonacci.java)
-- [이진 트리 순회(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/BinaryTreeTraversal.java)
+- [이진 트리 순회(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/TraversalDFS.java)
 - [부분 집합 구하기(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/Subset.java)
 - [이진트리 레벨탐색(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/TraversalBFS.java)
 - [송아지 찾기1(BFS)]
