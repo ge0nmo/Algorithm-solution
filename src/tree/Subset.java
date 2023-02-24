@@ -10,8 +10,8 @@ public class Subset
     public static void main(String[] args) throws IOException
     {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
         int num = Integer.parseInt(br.readLine());
+
         n = num;
         arr = new int[n + 1];
 
