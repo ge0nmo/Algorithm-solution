@@ -15,7 +15,7 @@ public class TraversalBFS
         while(!que.isEmpty())
         {
             int length = que.size();
-            System.out.print(length + "= ");
+            System.out.print(depth + "= ");
 
             for(int i = 0; i < length; i++)
             {
