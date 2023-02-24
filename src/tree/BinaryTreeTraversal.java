@@ -1,7 +1,5 @@
-package recursive;
+package tree;
 
-import java.io.*;
-import java.util.*;
 public class BinaryTreeTraversal
 {
     Node root;
