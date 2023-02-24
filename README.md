@@ -1,4 +1,4 @@
-### 문자열
+## 문자열
 - [대소문자 변환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ToUpperOrLowerCase.java)
 - [문장 속 단어](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/LongestWord.java)
 - [단어 뒤집기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/ReverseWords.java)
@@ -11,7 +11,7 @@
 - [문자열 압축](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/StringCompression.java)
 - [암호](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/string/Password.java)
   
-### 배열
+## 배열
 - [큰 수 출력하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/LargerNumber.java)
 - [가위바위보](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/RockScissorPaper.java)
 - [피보나치 수열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/Fibonacci.java)
@@ -24,7 +24,7 @@
 - [임시반장 정하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/ClassPresident.java)
 - [멘토링](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/array/Mentoring.java)
 
-### two pointers, sliding window[효율성: O(n^2) --> O(n)]
+## two pointers, sliding window[효율성: O(n^2) --> O(n)]
 - [두 배열 합치기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/AddArrays.java)
 - [공통 원소 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/FindCommonNum.java)
 - [최대 매출](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/slidingwindow/BiggestSales.java)
@@ -32,7 +32,7 @@
 - [연속된 자연수의 합](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/slidingwindow/ConsecutiveNum.java)
 - [최대 길이 연속 부분 수열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/efficiency/twopointers/LongestSequence.java)
 
-### HashMap, TreeSet(해쉬, 정렬지원 Set)
+## HashMap, TreeSet(해쉬, 정렬지원 Set)
 - [학급 회장](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/ClassPresident.java)
 - [아나그램](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/Anagram.java)
 - [매출액의 종류](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/collection/TypeOfSales.java)
@@ -49,7 +49,7 @@
 - [교육과정 설계](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/queue/Curriculum.java)
 - [응급실](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/datastructure/queue/EmergencyRoom.java)
 
-### Sorting and Searching(정렬, 이분검색과 결정 알고리즘)
+## Sorting and Searching(정렬, 이분검색과 결정 알고리즘)
 - [선택 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/SelectionSort.java)
 - [버블 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/BubbleSort.java)
 - [삽입 정렬](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/sorting/InsertionSort.java)
@@ -62,7 +62,7 @@
 - [뮤직비디오(결정 알고리즘)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/searching/MusicVideo.java)
 - [마구간 정하기(결정 알고리즘)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/searching/Stabling.java)
 
-### Recursive, Tree, Graph(DFS, BFS 기초)
+## Recursive, Tree, Graph(DFS, BFS 기초)
 - [재귀함수(스택프레임)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Recursive.java)
 - [이진수 출력(재귀)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/OutputBinaryNum.java)
 - [팩토리얼](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Factorial.java)
