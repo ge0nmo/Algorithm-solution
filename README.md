@@ -61,3 +61,19 @@
 - [이분검색](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/searching/BinarySearch.java)
 - [뮤직비디오(결정 알고리즘)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/searching/MusicVideo.java)
 - [마구간 정하기(결정 알고리즘)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/searching/Stabling.java)
+
+## Recursive, Tree, Graph(DFS, BFS 기초)
+- [재귀함수(스택프레임)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Recursive.java)
+- [이진수 출력(재귀)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/OutputBinaryNum.java)
+- [팩토리얼](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Factorial.java)
+- [피보나치 재귀(메모이제이션)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/recursive/Fibonacci.java)
+- [이진 트리 순회(DFS)]
+- [부분 집합 구하기(DFS)]
+- [이진트리 레벨탐색(BFS)]
+- [송아지 찾기1(BFS)]
+- [Tree 말단노드까지의 가장 짧은 경로(DFS)]
+- [Tree 말단노드까지의 가장 짧은 경로(BFS)]
+- [그래프와 인접행렬]
+- [경로탐색(DFS)]
+- [경로탐색(인접리스트, ArrayList)]
+- [그래프 최단거리(BFS)]
