@@ -18,8 +18,6 @@ public class Subset
         DFS(1);
     }
 
-
-
     public static void DFS(int depth)
     {
         if(n + 1 == depth)
