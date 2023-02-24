@@ -1,6 +1,6 @@
 package tree;
 
-public class BinaryTreeTraversal
+public class TraversalDFS
 {
     Node root;
 
@@ -25,7 +25,7 @@ public class BinaryTreeTraversal
 
     public static void main(String[] args)
     {
-        BinaryTreeTraversal tree = new BinaryTreeTraversal();
+        TraversalDFS tree = new TraversalDFS();
         tree.root = new Node(1);
         tree.root.lt = new Node(2);
         tree.root.rt = new Node(3);

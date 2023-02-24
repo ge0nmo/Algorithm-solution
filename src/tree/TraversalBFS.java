@@ -9,6 +9,7 @@ public class TraversalBFS
     public void BFS(Node root)
     {
         Queue<Node> que = new LinkedList<>();
+
         que.offer(root);
         int depth = 0;
 
@@ -16,7 +17,6 @@ public class TraversalBFS
         {
             int length = que.size();
             System.out.print(depth + "= ");
-
             for(int i = 0; i < length; i++)
             {
                 Node cur = que.poll();
@@ -27,7 +27,6 @@ public class TraversalBFS
 
                 if(cur.rt != null)
                     que.offer(cur.rt);
-
             }
             depth++;
             System.out.println();
