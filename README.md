@@ -70,7 +70,7 @@
 - [이진 트리 순회(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/TraversalDFS.java)
 - [부분 집합 구하기(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/Subset.java)
 - [이진트리 레벨탐색(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/TraversalBFS.java)
-- [송아지 찾기1(BFS)]
+- [송아지 찾기1(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/tree/FindCalf.java)
 - [Tree 말단노드까지의 가장 짧은 경로(DFS)]
 - [Tree 말단노드까지의 가장 짧은 경로(BFS)]
 - [그래프와 인접행렬]
