@@ -3,7 +3,7 @@ package graph;
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class PathFinding
+public class PathFindingDFS
 {
     static int n, m, answer = 0;
     static int check[];
@@ -31,7 +31,7 @@ public class PathFinding
     }
     public static void main(String[] args) throws IOException
     {
-        PathFinding t = new PathFinding();
+        PathFindingDFS t = new PathFindingDFS();
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
