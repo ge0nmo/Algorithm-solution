@@ -19,9 +19,8 @@ public class ShortestPathBFS
                 Node cur = que.poll();
 
                 if(cur.lt == null & cur.rt == null)
-                {
                     return depth + 1;
-                }
+
 
                 if(cur.lt != null)
                     que.offer(cur.lt);
@@ -35,6 +34,7 @@ public class ShortestPathBFS
 
         return 0;
     }
+
     public static void main(String args[])
     {
         ShortestPathBFS tree = new ShortestPathBFS();
