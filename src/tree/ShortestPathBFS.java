@@ -19,8 +19,7 @@ public class ShortestPathBFS
                 Node cur = que.poll();
 
                 if(cur.lt == null & cur.rt == null)
-                    return depth + 1;
-
+                    return depth;
 
                 if(cur.lt != null)
                     que.offer(cur.lt);
