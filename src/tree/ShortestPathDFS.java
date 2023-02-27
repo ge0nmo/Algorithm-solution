@@ -1,6 +1,6 @@
 package tree;
 
-public class ShortestPath
+public class ShortestPathDFS
 {
     Node root;
     public int DFS(int L, Node root)
@@ -17,7 +17,7 @@ public class ShortestPath
 
     public static void main(String[] args)
     {
-        ShortestPath tree = new ShortestPath();
+        ShortestPathDFS tree = new ShortestPathDFS();
         tree.root = new Node(1);
         tree.root.lt = new Node(2);
         tree.root.rt = new Node(3);
