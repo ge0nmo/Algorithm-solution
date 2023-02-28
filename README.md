@@ -76,3 +76,20 @@
 - [경로탐색(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/graph/PathFindingDFS.java)
 - [경로탐색(인접리스트, ArrayList)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/graph/PathFindingList.java)
 - [그래프 최단거리(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/graph/ShortestPathInGraphBFS.java)
+
+## DFS, BFS 활용
+- [합이 같은 부분집합](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/SubsetSum.java)
+- [바둑이 승차](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/DogsInTruck.java)
+- [최대점수 구하기]
+- [중복순열]
+- [동전교환]
+- [순열 구하기]
+- [조합수]
+- [수열 추측하기]
+- [조합 구하기]
+- [미로 탐색(DFS)]
+- [미로의 최단거리 통로(BFS)]
+- [토마토(BFS)]
+- [섬나라 아일랜드(DFS)]
+- [섬나라 아일랜드(BFS)]
+- [피자배달 거리(DFS)]
