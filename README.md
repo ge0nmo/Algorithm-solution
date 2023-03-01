@@ -81,7 +81,7 @@
 - [합이 같은 부분집합](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/SubsetSum.java)
 - [바둑이 승차](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/DogsInTruck.java)
 - [최대점수 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/BiggestScore.java)
-- [중복순열]
+- [중복순열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/PermutationRepetition.java)
 - [동전교환]
 - [순열 구하기]
 - [조합수]
