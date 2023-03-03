@@ -83,8 +83,8 @@
 - [최대점수 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/BiggestScore.java)
 - [중복순열](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/PermutationRepetition.java)
 - [동전교환](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/CoinExchange.java)
-- [순열 구하기]
-- [조합수]
+- [순열 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/Permutation.java)
+- [조합의 경우의 수(메모이제이션)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/CombinationNumOfCases.java)
 - [수열 추측하기]
 - [조합 구하기]
 - [미로 탐색(DFS)]
