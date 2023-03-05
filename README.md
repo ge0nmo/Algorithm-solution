@@ -87,7 +87,7 @@
 - [조합의 경우의 수(메모이제이션)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/CombinationNumOfCases.java)
 - [수열 추측하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/SeriesGuess.java)
 - [조합 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/Combination.java)
-- [미로 탐색(DFS)]
+- [미로 탐색(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/MazeSearch.java)
 - [미로의 최단거리 통로(BFS)]
 - [토마토(BFS)]
 - [섬나라 아일랜드(DFS)]
