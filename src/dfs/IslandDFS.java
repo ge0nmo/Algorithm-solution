@@ -2,8 +2,12 @@ package dfs;
 
 import java.io.*;
 import java.util.*;
-public class Island
+public class IslandDFS
 {
+    //대각선까지 체크해야하기 때문에 방향을 바꿔줄 배열을 8개로 만든다
+    //그리고 배열의 0, 0부터 시작해서 1인 경우 탐색을 시작하고 카운트를 1 올려준다
+    //탐색을 할때는 다른 문제들처럼 0 ~ 배열의크기 사이인지 체크하고 육지인 경우(1일 때)만 탐색
+
     static int n, answer = 0;
     static int arr[][];
 
@@ -23,7 +27,6 @@ public class Island
                 DFS(nx, ny, arr);
             }
         }
-
     }
 
     public static void solution(int board[][])
@@ -64,7 +67,6 @@ public class Island
         solution(arr);
 
         System.out.println(answer);
-
 
     }
 }
