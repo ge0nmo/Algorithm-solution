@@ -88,8 +88,8 @@
 - [수열 추측하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/SeriesGuess.java)
 - [조합 구하기](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/Combination.java)
 - [미로 탐색(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/MazeSearch.java)
-- [미로의 최단거리 통로(BFS)]
-- [토마토(BFS)]
-- [섬나라 아일랜드(DFS)]
-- [섬나라 아일랜드(BFS)]
+- [미로의 최단거리 통로(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/bfs/ShortestPathInMaze.java)
+- [토마토(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/bfs/Tomato.java)
+- [섬나라 아일랜드(DFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/dfs/IslandDFS.java)
+- [섬나라 아일랜드(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/bfs/IslandBFS.java)
 - [피자배달 거리(DFS)]
