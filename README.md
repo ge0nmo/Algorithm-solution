@@ -95,7 +95,7 @@
 - [피자배달 거리(DFS)]
 
 ## Greedy Algorithm
-- [씨름 선수]
+- 씨름 선수
 - [회의실 배정]
 - [결혼식]
 - [최대수입 스케줄(Priority Queue)]
