@@ -94,7 +94,7 @@
 - [섬나라 아일랜드(BFS)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/bfs/IslandBFS.java)
 - [피자배달 거리(DFS)]
 
-##Greedy Algorithm
+## Greedy Algorithm
 - [씨름 선수]
 - [회의실 배정]
 - [결혼식]
