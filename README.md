@@ -96,10 +96,10 @@
 
 ## Greedy Algorithm
 - 씨름 선수
-- [회의실 배정]
-- [결혼식]
-- [최대수입 스케줄(Priority Queue)]
-- [다익스트라 알고리즘]
-- [친구인가? (Union&Find)]
-- [원더랜드(크루스칼: Union&Find)]
-- [원더랜드(프림: Priority Queue)]
+- 회의실 배정
+- 결혼식
+- 최대수입 스케줄(Priority Queue)
+- 다익스트라 알고리즘
+- 친구인가? (Union&Find)
+- 원더랜드(크루스칼: Union&Find)
+- 원더랜드(프림: Priority Queue)
