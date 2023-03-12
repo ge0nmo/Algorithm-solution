@@ -95,9 +95,9 @@
 - [피자배달 거리(DFS)]
 
 ## Greedy Algorithm
-- [씨름 선수]
-- [회의실 배정]
-- [결혼식]
+- [씨름 선수](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/Wrestling.java)
+- [회의실 배정](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/ConferenceRoom.java)
+- [결혼식](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/Wedding.java)
 - [최대수입 스케줄(Priority Queue)]
 - [다익스트라 알고리즘]
 - [친구인가? (Union&Find)]
