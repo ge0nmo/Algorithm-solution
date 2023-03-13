@@ -98,7 +98,7 @@
 - [씨름 선수](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/Wrestling.java)
 - [회의실 배정](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/ConferenceRoom.java)
 - [결혼식](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/Wedding.java)
-- [최대수입 스케줄(Priority Queue)]
+- [최대수입 스케줄(Priority Queue)](https://github.com/ge0nmo/Algorithm-solution/blob/main/src/greedy/MaximumProfit.java)
 - [다익스트라 알고리즘]
 - [친구인가? (Union&Find)]
 - [원더랜드(크루스칼: Union&Find)]
